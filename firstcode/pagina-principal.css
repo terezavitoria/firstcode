@@ -1,0 +1,40 @@
+.cabecalho{
+    background-color: #d0e0e3;
+    background-image: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     }
+.img{
+    width: 350px;
+    height:65px;
+}
+.titulo1{
+    color: #134f5c;
+    font-family: "tahoma";
+    text-align: left; 
+}
+p{
+    font-size: 15px;
+    color: #134f5c;
+    font-family: "tahoma";
+
+
+}
+.img{
+    width: 400px;
+    height: 400px;
+}
+.botão{
+    background: #134f5c;
+    color: white;
+    font-family: "tahoma";
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+
+
+}
+.logo{
+    width: 200px;
+    height: 50px;
+}
